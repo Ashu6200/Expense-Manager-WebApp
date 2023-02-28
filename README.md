@@ -1,6 +1,9 @@
 # Expense-Manager-WebApp
 A MERN Expense Manager app is a web-based application that allows users to add Expense, delete and update recipes. The application is built using the React JavaScript library, which allows for the creation of interactive and dynamic user interfaces.
 
+Features: - Signup, Login and Logout - Add expense - Edit expense - Delete expense ( soft delete, show striked or some other indication that it's - deleted, don't remove the entry from the database) - The expense and budget summary - Settings page
+- The expense and budget summary with chart
+
 
 ## Home Page
 ![Home](https://user-images.githubusercontent.com/109691178/221963792-9b3b3a5c-5a4f-408b-ad43-48e905170000.PNG)
